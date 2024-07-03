@@ -18,3 +18,4 @@ C:\Users\USER\Desktop\igproject\C#\InstagramApiSharpExample\bin\Debug\net8.0\Ins
 C:\Users\USER\Desktop\igproject\C#\InstagramApiSharpExample\bin\Debug\net8.0\InstagramApiSharp.pdb
 C:\Users\USER\Desktop\igproject\C#\InstagramApiSharpExample\obj\Debug\net8.0\InstagramApiSharpExample.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\igproject\C#\InstagramApiSharpExample\obj\Debug\net8.0\Instagra.BFA62AEB.Up2Date
+C:\Users\USER\Desktop\igproject\C#\InstagramApiSharpExample\obj\Debug\net8.0\InstagramApiSharpExample.sourcelink.json
